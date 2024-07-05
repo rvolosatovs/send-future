@@ -1,0 +1,8 @@
+[package]
+name = "send-future"
+version = "0.1.0"
+edition = "2021"
+authors = ["Roman Volosatovs <rvolosatovs@riseup.net>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/rvolosatovs/send-future"
+description = "Ergonomic and performant fix for https://github.com/rust-lang/rust/issues/96865"
